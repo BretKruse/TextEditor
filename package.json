@@ -1,0 +1,11 @@
+{
+  "name": "texteditor",
+  "version": "1.0.0",
+  "description": "- I wanted to create a text editor that I can download.\r - This help me advance my knowledge on REACT.\r - Learned to make different folder structures to the REACT concept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
